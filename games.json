@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Super Mario",
+    "thumbnail": "https://example.com/mario.jpg",
+    "url": "https://example.com/mario.html",
+    "category": "Adventure"
+  },
+  {
+    "title": "Car Racing",
+    "thumbnail": "https://example.com/car.jpg",
+    "url": "https://example.com/car.html",
+    "category": "Racing"
+  }
+]
