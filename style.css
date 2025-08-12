@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+}
+header {
+  padding: 1rem;
+  background: #2196f3;
+  color: white;
+  text-align: center;
+}
+#game-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 10px;
+  padding: 10px;
+}
+.game-card {
+  background: white;
+  padding: 5px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.game-card img {
+  max-width: 100%;
+  border-radius: 5px;
+}
